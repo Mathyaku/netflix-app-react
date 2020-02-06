@@ -2,7 +2,7 @@
 
 Netflix made using React framework and Json server
 
-**Json-server**
+**Json Server**
 
 **run cmd**: json-server --watch db.json --port 3001<br />
 **port**: 3001*
